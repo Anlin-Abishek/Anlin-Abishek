@@ -53,8 +53,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-FF0000?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-FF8C00?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=java&logoColor=white" />
-
+  
   
 </p>
 
