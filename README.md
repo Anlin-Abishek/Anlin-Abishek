@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-007396?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FFA500?style=for-the-badge&logo=&logoColor=white" />
 </p>
 
 ---
