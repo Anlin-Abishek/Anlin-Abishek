@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning:  *UI/UX Designing, **Data Structures, **Python, **SQL and **Java*  
+- 🌱 Currently learning:  *UI/UX Designing*, *Data Structures*, *Python*, *SQL* and *Java*  
 - 👯 Looking to collaborate on: Open source and innovative projects  
 - 💬 Ask me about: Web Design or anything tech!  
 - 🎨 Skilled in creating modern and aesthetic designs using *Canva* and *Figma* 
