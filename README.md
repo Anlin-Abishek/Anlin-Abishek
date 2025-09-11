@@ -74,7 +74,14 @@
 </p>
 
 ---
+## 🧠 GeeksforGeeks Stats
 
+<p align="center">
+  
+  <img src="https://gfgstatscard.vercel.app/anlin18a7gza" alt="GFG stats" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
 
