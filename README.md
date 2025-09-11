@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Anlin_Abishek?theme=dark&font=Montagu%20Slab&ext=heatmap" />
-  <img src="https://gfgstatscard.vercel.app/<YOUR_USERNAME>" alt="GFG stats" />
+  <img src="https://gfgstatscard.vercel.app/anlin18a7gza" alt="GFG stats" />
 </p>
 
 ---
