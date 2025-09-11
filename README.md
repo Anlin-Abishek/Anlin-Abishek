@@ -69,7 +69,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sastidharan_07?theme=dark&font=Boogaloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Anlin_Abishek?theme=dark&font=Montagu%20Slab&ext=heatmap" />
 </p>
 
 ---
