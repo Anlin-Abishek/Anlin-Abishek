@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🏋️ *A Safety App for Women’s Secure Travel* | A specialized safety solution with features like real-time, location-based information and emergency(SOS). | Figma | [View Project] |
+| 🚺 *A Safety App for Women’s Secure Travel* | A specialized safety solution with features like real-time, location-based information and emergency(SOS). | Figma | [View Project] |
 
 
 ---
