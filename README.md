@@ -22,7 +22,7 @@
 - 💻 **Languages:**  Python, Java, SQL.
 - 🌐 **Developer Tools:**   VS Code, Jupyter Notebook, Anaconda, GitHub.  
 - 🧠 **Technologies/Frameworks:** Figma, Canva, Open CV, Subfinder.
-- 🗃️ **Others** Basic Data Structures & Algorithms.
+- 🗃️ **Others:** Basic Data Structures & Algorithms.
 
 
 ---
