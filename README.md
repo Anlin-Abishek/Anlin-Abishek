@@ -8,12 +8,21 @@
 ---
 
 ## 🧑‍💻 About Me
-
-- 🌱 Currently learning:  *UI/UX Designing*, *Data Structures*, *Python*, *SQL* and *Java*  
+- 🌱 Currently diving deep into **UI/UX Designing** **Data Structures**  **Python** **SQL** and **Java**
+- 💡 I enjoy solving real-world problems through code  
 - 👯 Looking to collaborate on: Open source and innovative projects  
-- 💬 Ask me about: Web Design or anything tech!  
-- 🎨 Skilled in creating modern and aesthetic designs using *Canva* and *Figma* 
+- 💬 Ask me about: Frontend Designing or anything tech!  
+- 🎨 Skilled in creating modern and aesthetic designs using **Canva** and **Figma** 
 - 📫 Reach me at: anlin18abishek@gmail.com  
+
+
+---
+## 🛠️ Tech Stack
+
+- 💻 **Languages:**  Python, Java, SQL.
+- 🌐 **Developer Tools:**   VS Code, Jupyter Notebook, Anaconda, GitHub.  
+- 🧠 **Technologies/Frameworks:** Figma, Canva, Open CV, Subfinder.
+- 🗃️ **Others** Basic Data Structures & Algorithms.
 
 
 ---
@@ -29,11 +38,14 @@
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-F4B400?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-007396?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Cybersecurity-FFA500?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
 </p>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
