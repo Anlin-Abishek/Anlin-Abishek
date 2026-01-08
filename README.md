@@ -79,7 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anlin-Abishek&show_icons=true&theme=radical&hide_border=true" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anlin-Abishek&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anlin-Abishek" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anlin-Abishek&theme=radical&hide_border=true" />
