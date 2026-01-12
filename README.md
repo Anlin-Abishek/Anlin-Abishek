@@ -79,13 +79,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anlin-Abishek&show_icons=true&theme=radical&hide_border=true" width="48%" />
   &nbsp;&nbsp;
- 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anlin-Abishek&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Anlin-Abishek&show_icons=true&theme=transparent" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anlin-Abishek&theme=radical&hide_border=true" />
+<p><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Anlin-Abishek)](https://github.com/Anlin-Abishek/github-readme-stats-fast" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anlin-Abishek&layout=compact" />
+
 </p>
+
+
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anlin-Abishek&theme=rogue&area=true&hide_border=true" /> </p>
 
 ---
