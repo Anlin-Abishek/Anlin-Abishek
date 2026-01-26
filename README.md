@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 - 💻 **Languages:**  Python, Java, SQL.
-- 🌐 **Developer Tools:**   VS Code, Jupyter Notebook, Anaconda, GitHub.  
+- 🌐 **Developer Tools:**   VS Code, Jupyter Notebook, Anaconda, GitHub, Git.  
 - 🧠 **Technologies/Frameworks:** Figma, Canva, Open CV, Subfinder.
 - 🗃️ **Others:** Basic Data Structures & Algorithms.
 
