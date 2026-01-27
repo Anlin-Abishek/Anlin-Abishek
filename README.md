@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Dynamic%20Programming-007396?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developement-FFA500?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Cybersecurity-FFA500?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
 </p>
